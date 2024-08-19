@@ -3,7 +3,8 @@ uuid = "b9cb8d86-1d0b-4499-af2a-911422add6a8"
 repo = "/Users/mariusme/Documents/repos/binarybuilder_xrt/XRT/../XRT_pkgs"
 
 [packages]
-0a077753-09e0-5213-973e-a9bab7f4efc7 = { name = "systemtap_jll", path = "systemtap_jll"}
-17fc61dc-9d6f-534d-91bb-5213c1b476d9 = { name = "rapidjson_jll", path = "rapidjson_jll"}
-2133ec9d-2300-5c3e-b0d9-ae6a10eb43df = { name = "ELFIO_jll", path = "ELFIO_jll"}
-43088459-b9e4-5d54-8487-0befc54bcdc8 = { name = "ocl_icd_jll", path = "ocl_icd_jll"}
+0a077753-09e0-5213-973e-a9bab7f4efc7 = { name = "systemtap_jll", path = "systemtap_jll" }
+17fc61dc-9d6f-534d-91bb-5213c1b476d9 = { name = "rapidjson_jll", path = "rapidjson_jll" }
+2133ec9d-2300-5c3e-b0d9-ae6a10eb43df = { name = "ELFIO_jll", path = "ELFIO_jll" }
+43088459-b9e4-5d54-8487-0befc54bcdc8 = { name = "ocl_icd_jll", path = "ocl_icd_jll" }
+bb401bc5-fb22-5674-bf0e-333823e8805f = { name = "xrt_jll", path = "jll/X/xrt_jll" }
