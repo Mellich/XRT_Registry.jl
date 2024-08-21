@@ -10,3 +10,6 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 ["0.1.1-0"]
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 xrt_jll = "bb401bc5-fb22-5674-bf0e-333823e8805f"
+
+["0.1.3-0"]
+Libuuid_jll = "38a345b3-de98-5d2b-a5d3-14cd9215e700"
